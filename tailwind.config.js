@@ -5,7 +5,8 @@ module.exports = {
 		colors: {
 			'black-platinum': '#273036',
 			'beige': '#f5f5dc',
-			'hazelnut': '#a8715a'
+			'hazelnut': '#a8715a',
+			'intangible': 'rgba(0,0,0,0)'
 		},
 
 		extend: {
